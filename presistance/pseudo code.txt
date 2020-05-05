@@ -1,0 +1,9 @@
+- I need to loop the code every time to check on the data.
+
+- a num should bigger than 9 or will be equation to 0 if it is smaller than it.
+
+- I need to separate the numbers separately.
+
+- the numbers cannot iterable so I have to put it as a string then I'll modify it again as an integer.
+
+- I have to do multiplication in all of the numbers that exists in my list together.
